@@ -3,14 +3,21 @@
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,mercari.com
+# 坂道
 DOMAIN-SUFFIX,nogizaka46.com
 DOMAIN-SUFFIX,nogidoga.com
 DOMAIN-SUFFIX,nogizaka46shop.com
 DOMAIN-SUFFIX,keyakizaka46.com
 DOMAIN-SUFFIX,sakurazaka46.com
 DOMAIN-SUFFIX,hinatazaka46.com
-DOMAIN-SUFFIX,nanabunnonijyuuni.com
-DOMAIN-SUFFIX,nana-comi.com
 DOMAIN-KEYWORD,fortunemusic
 DOMAIN-KEYWORD,fortunemeets
 DOMAIN-SUFFIX,dvct1h07p2.execute-api.ap-northeast-1.amazonaws.com
+# 22/7
+DOMAIN-SUFFIX,nanabunnonijyuuni.com
+DOMAIN-SUFFIX,nana-comi.com
+# WebMoney
+DOMAIN-SUFFIX,aupayapp.com
+DOMAIN-SUFFIX,reproio.com
+DOMAIN-SUFFIX,kpf-service.jp
+DOMAIN-SUFFIX,wallet-prod-static.s3.amazonaws.com
