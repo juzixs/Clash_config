@@ -19,6 +19,12 @@ DOMAIN-SUFFIX,nana-comi.com
 # のぎ動画
 DOMAIN-SUFFIX,nogidoga.com
 DOMAIN-SUFFIX,camplat.com
+# Abema.TV
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,abematv
+DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abema.io
 # smash.
 DOMAIN-SUFFIX,smash-media.jp
 DOMAIN-SUFFIX,smash-zap.com
