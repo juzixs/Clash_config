@@ -23,3 +23,5 @@ DOMAIN-SUFFIX,aupayapp.com
 DOMAIN-SUFFIX,reproio.com
 DOMAIN-SUFFIX,kpf-service.jp
 DOMAIN-SUFFIX,wallet-prod-static.s3.amazonaws.com
+# SmartNews
+DOMAIN-KEYWORD,smartnews
