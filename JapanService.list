@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,mercari.com
 DOMAIN-SUFFIX,auctions.yahoo.co.jp
+DOMAIN-SUFFIX,dmm.com
 # fortunemusic
 DOMAIN-KEYWORD,fortunemusic
 DOMAIN-KEYWORD,fortunemeets
