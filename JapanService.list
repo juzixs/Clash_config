@@ -26,3 +26,5 @@ DOMAIN-SUFFIX,kpf-service.jp
 DOMAIN-SUFFIX,wallet-prod-static.s3.amazonaws.com
 # SmartNews
 DOMAIN-KEYWORD,smartnews
+# Game
+DOMAIN-SUFFIX,production-dlc.delta.gu3.jp
