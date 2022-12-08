@@ -29,3 +29,5 @@ DOMAIN-SUFFIX,wallet-prod-static.s3.amazonaws.com
 DOMAIN-KEYWORD,smartnews
 # Game
 DOMAIN-SUFFIX,delta.gu3.jp
+# OpenAI
+DOMAIN-SUFFIX,openai.com
