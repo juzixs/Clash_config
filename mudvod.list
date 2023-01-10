@@ -1,7 +1,11 @@
 # 内容：泥视频 泥巴影院
-# https://www.mudvod.tv/
+# https://www.nivod.tv/ https://www.mudvod.tv/
 DOMAIN-KEYWORD,mudvod
+DOMAIN-KEYWORD,nivod
+DOMAIN-SUFFIX,mudvod.tv
 DOMAIN-SUFFIX,nivod.tv
+DOMAIN-SUFFIX,nivodi.tv
+DOMAIN-SUFFIX,nbyy.tv
 DOMAIN-SUFFIX,nbys1.tv
 DOMAIN-SUFFIX,biggggg.com
 DOMAIN-SUFFIX,newpppp.com
