@@ -1,1 +1,25 @@
-
+# 内容：日本流媒体
+# tver|stagecrowd|soundcloud
+DOMAIN-SUFFIX,tver.jp
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,streamhub.io
+DOMAIN-SUFFIX,stagecrowd.live
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,bcovlive-a.akamaihd.net
+# のぎ動画
+DOMAIN-SUFFIX,nogidoga.com
+DOMAIN-SUFFIX,camplat.com
+# Abema.TV
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,abematv
+DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abema.io
+# smash.
+DOMAIN-SUFFIX,smash-media.jp
+DOMAIN-SUFFIX,smash-zap.com
+DOMAIN-SUFFIX,rt.applvn.com
+# showroom
+DOMAIN-SUFFIX,showroom-live.com
