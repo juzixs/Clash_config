@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,camplat.com
 # AbemaTV
 USER-AGENT,AbemaTV*
 DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,abematv
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN,api-abematv.bucketeer.jp
 DOMAIN-SUFFIX,abema-tv.com
@@ -22,7 +23,7 @@ DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
-DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
 # smash.
 DOMAIN-SUFFIX,smash-media.jp
 DOMAIN-SUFFIX,smash-zap.com
