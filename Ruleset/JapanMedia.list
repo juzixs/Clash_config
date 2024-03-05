@@ -12,11 +12,13 @@ DOMAIN-SUFFIX,bcovlive-a.akamaihd.net
 DOMAIN-SUFFIX,nogidoga.com
 DOMAIN-SUFFIX,camplat.com
 # Abema TV
+DOMAIN-KEYWORD,abema
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,abema-tv.com
 # smash.
 DOMAIN-SUFFIX,smash-media.jp
 DOMAIN-SUFFIX,smash-zap.com
