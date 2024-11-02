@@ -3,7 +3,7 @@
 DOMAIN-KEYWORD,hlove
 DOMAIN-SUFFIX,histar.tv
 DOMAIN-SUFFIX,app.ymedium.top
-IP-CIDR,163.181.140.171/32,no-resolve
+IP-CIDR,163.181.140.0/24,no-resolve
 # 内容：爱壹帆
 # https://www.iyf.tv/
 DOMAIN-KEYWORD,iyf
